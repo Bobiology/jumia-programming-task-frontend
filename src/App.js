@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <div className='container'>
-        <h1> COUNTRIES & THEIR PHONE NUMBERS - JUMIA JAVA ENGINEER TASK</h1>
+        <h1> INTERNATIONAL PHONE NUMBER VALIDATION SERVICE - UI</h1>
       </div>
       <div className='phone-container'>
       <DataList />
